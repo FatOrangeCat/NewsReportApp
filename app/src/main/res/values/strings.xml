@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">NewsReportApp</string>
+    <string name="news_title_hint">Enter a title for your news</string>
+    <string name="news_title_lable">Title</string>
+    <string name="news_details_lable">Details</string>
+    <string name="news_publiced_label">Publiced</string>
+    <string name="date_picker_title">Date of News:</string>
+    <string name="report_news">Report News</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$s newses</string>
 </resources>
